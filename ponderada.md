@@ -10,7 +10,7 @@ Para abordar o problema do "concept drift" em sistemas conversacionais, propomos
 
 ### Diagrama de Blocos:
 
-
+![Descrição da Imagem](./framee.png)
 
 
 ### Descrição dos Blocos:
